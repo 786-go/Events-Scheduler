@@ -8,3 +8,7 @@ $(".saveBtn").on("click", function(){
     localStorage.setItem(id,userEntry)
 })
 
+for (let i=8; i<19; i++) {
+    var readData = localStorage.getItem(i)
+    $("#"+i).val(readData)
+}
