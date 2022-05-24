@@ -14,27 +14,22 @@
 
 
 ### Description
-This is designed to aid in organizing and managing the various tasks/events one engages in throughout the day. 
+This app allows one to schedule one's daily activities/engagements. The CSS helps the UI greatly in the app in that there are always 3 colors in use; current time, previous, and upcoming. The use of Moment.js was a nice feature added at the top as well. 
 
 ### Installation
-none
+None. The program runs smoothly in the browser. 
 
 ### Usage
-It's as simple as going to the webpage and then typing it one's events at the given time slots. 
+None. The CSS makes this program intuitive and enjoyable to use. 
+Link to deployed app: https://786-go.github.io/Taskinator/
 
 ### License
-![GitHub license](https://img.shields.io/badge/license-GPL-green.svg)
-GPL
+![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
+MIT
 
 ### Contribute
-Make a pull request.
-
-### Tests
-none
+Please contact me through GitHub or [LinkedIn](https://www.linkedin.com/in/noorullah-wardak-b35b1a23a?trk=public_profile_samename-profile). 
 
 ### Questions
-Email :
 Developer's Profile:
 [Github](https://github.com/786-go)
-
-    
