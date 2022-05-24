@@ -20,7 +20,7 @@ None. The program runs smoothly in the browser.
 
 ### Usage
 None. The CSS makes this program intuitive and enjoyable to use. 
-Link to deployed app: https://786-go.github.io/Taskinator/
+Link to deployed app: https://786-go.github.io/eventsScheduler/
 
 ### License
 ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
