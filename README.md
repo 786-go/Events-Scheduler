@@ -8,7 +8,6 @@
 * [Usage](#usage)
 * [License](#license)
 * [Contribution](#contribution)
-* [Tests](#test)
 * [Questions](#questions)
 
 
