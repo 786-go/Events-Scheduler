@@ -19,8 +19,7 @@ This app allows one to schedule one's daily activities/engagements. The CSS help
 None. The program runs smoothly in the browser. 
 
 ### Usage
-None. The CSS makes this program intuitive and enjoyable to use. 
-Link to deployed app: https://786-go.github.io/Taskinator/
+It's as simple as going to the webpage and then typing in one's events at the given time slots. 
 
 ### License
 ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
@@ -32,3 +31,5 @@ Please contact me through GitHub or [LinkedIn](https://www.linkedin.com/in/nooru
 ### Questions
 Developer's Profile:
 [Github](https://github.com/786-go)
+
+    
